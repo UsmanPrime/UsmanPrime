@@ -8,8 +8,8 @@
 
 <div align="center">
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/usmanibrahim00)](https://www.linkedin.com/in/usman-ibrahim-992253276/)  
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-E1306C?style=flat-square&labelColor=E1306C&logo=instagram&logoColor=white&link=)](https://www.instagram.com/usmannnx._.x/)
+[![LinkedIn Badge](https://img.icons8.com/?size=100&id=13930&format=png&color=000000)](https://www.linkedin.com/in/usman-ibrahim-992253276/)  
+[![Instagram Badge](https://img.icons8.com/?size=100&id=32323&format=png&color=000000)](https://www.instagram.com/usmannnx._.x/)
 </div>
 
 ---
