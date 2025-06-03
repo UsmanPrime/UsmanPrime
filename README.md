@@ -11,6 +11,10 @@
     <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="LinkedIn" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;
+  <a href="https://usmanprime.github.io/My-Portfolio/" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=naDnVpQ3BNkR&format=png&color=000000" alt="My Portfolio" width="40" height="40"/>
+  </a>
+&nbsp;&nbsp;
   <a href="https://www.instagram.com/usmannnx._.x/" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=32323&format=png&color=000000" alt="Instagram" width="40" height="40"/>
   </a>
