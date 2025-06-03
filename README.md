@@ -24,24 +24,9 @@
 
 ---
 
-<h4>👾 I Do Hacking Here</h4>
 
-<table>
-  <tr>
-    <td align="center" style="padding: 0; width: 50%;">
-      <a href="https://tryhackme.com/dashboard" target="_blank">
-        <img src="https://tryhackme-badges.s3.amazonaws.com/usmanibrahim.png" alt="TryHackMe">
-      </a>
-    </td>
-    <td align="center" style="padding: 0; width: 50%;">
-      <a href="https://account.hackthebox.com/dashboard" target="_blank">
-        <img src="https://www.hackthebox.com/badge/image/1234567" alt="HackTheBox" />
-      </a>
-    </td>
-  </tr>
-</table>
 
----
+
 
 <h4>🛠️ Tools & Languages</h4>
 <p align="left">
