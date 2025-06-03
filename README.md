@@ -7,10 +7,15 @@
 </div>
 
 <div align="center">
-
-[![LinkedIn Badge](https://img.icons8.com/?size=100&id=13930&format=png&color=000000)](https://www.linkedin.com/in/usman-ibrahim-992253276/)  
-[![Instagram Badge](https://img.icons8.com/?size=100&id=32323&format=png&color=000000)](https://www.instagram.com/usmannnx._.x/)
+  <a href="https://www.linkedin.com/in/usman-ibrahim-992253276/" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/usmannnx._.x/" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=32323&format=png&color=000000" alt="Instagram" width="40" height="40"/>
+  </a>
 </div>
+
 
 ---
 
@@ -28,35 +33,42 @@
 
 
 
-<h4>🛠️ Tools & Languages</h4>
-<p align="left">
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" />
-  </a>
-  <a href="https://www.kali.org/" target="_blank">
-    <img src="https://www.kali.org/images/kali-logo.svg" alt="kali" width="40" height="40" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-  </a>
-</p>
+<h4 align="center">🛠️ Tools & Languages</h4>
 
-<br>
+<div align="center">
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="50" height="50" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.w3schools.com/cpp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.kali.org/" target="_blank">
+    <img src="https://www.kali.org/images/kali-logo.svg" alt="kali" width="50" height="50" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50" />
+  </a>
+</div>
+
 
 ---
 
@@ -70,7 +82,7 @@
     <td align="center" style="padding=0;width=50%;">
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsmanPrime&title_color=4F8CC9&text_color=9f9f9f&layout=compact&show_icons=true&bg_color=00000000&hide_border=true&count_private=true" />
 
-    </td>
+  
   </tr>
 </table>
 
