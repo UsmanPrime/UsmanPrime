@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**UsmanPrime/UsmanPrime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Saad Bukhari</h1>
 
-Here are some ideas to get you started:
+## 👨‍💻 Feel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 BS Cybersecurity Student from [FAST](https://www.nu.edu.pk), expecting to graduate in 2027  
+- 🧰 Currently working on cybersecurity tools and scripts  
+- 📝 Occasionally, I share my thoughts and experiences on my [blog](https://yourbloglink.com)  
+- 📚 Learning React and MongoDB  
+- 💬 Ask Me About: Cyber Security, Web Pentesting, Digital Forensics, Memory Analysis  
+- 💻 I code in C++, Python, JavaScript, Rust, C#  
+- 📫 Reach me at: syed4000saad@gmail.com  
+- 🌐 Dive into my [portfolio](https://yourportfoliolink.com)  
+
+## 🔗 Connect with me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)  
+[![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram)](https://instagram.com/yourprofile)  
+[![Website](https://img.shields.io/badge/Website-black?logo=web)](https://yourwebsite.com)
+
