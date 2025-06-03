@@ -1,20 +1,97 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Usman Ibrahim</h1>
 
-<h1 align="center">Hi 👋, I'm Saad Bukhari</h1>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=435&lines=Welcome+To+My+Github;Have+A+Look+At+My+Projects;Feel+free+to+reach+out+to+me" alt="Typing SVG">
+  </a>
+</div>
 
-## 👨‍💻 Feel
+<div align="center">
 
-- 🎓 BS Cybersecurity Student from [FAST](https://www.nu.edu.pk), expecting to graduate in 2027  
-- 🧰 Currently working on cybersecurity tools and scripts  
-- 📝 Occasionally, I share my thoughts and experiences on my [blog](https://yourbloglink.com)  
-- 📚 Learning React and MongoDB  
-- 💬 Ask Me About: Cyber Security, Web Pentesting, Digital Forensics, Memory Analysis  
-- 💻 I code in C++, Python, JavaScript, Rust, C#  
-- 📫 Reach me at: syed4000saad@gmail.com  
-- 🌐 Dive into my [portfolio](https://yourportfoliolink.com)  
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/usmanibrahim00)](https://www.linkedin.com/in/usman-ibrahim-992253276/)  
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E1306C?style=flat-square&labelColor=E1306C&logo=instagram&logoColor=white&link=)](https://www.instagram.com/usmannnx._.x/)
+</div>
 
-## 🔗 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)  
-[![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram)](https://instagram.com/yourprofile)  
-[![Website](https://img.shields.io/badge/Website-black?logo=web)](https://yourwebsite.com)
+---
 
+- 🎓 BS Cybersecurity Student at [FAST NUCES Islamabad](https://nu.edu.pk/), expected to graduate in 2028  
+- 🔭 Currently working on C++ projects, Web Applications, and Security Tools  
+- 📚 Learning ReactJS, Python, and refining Digital Forensics skills  
+- 🧠 Ask Me About: Web Development, Capture The Flag (CTF), Digital Forensics, and Linux Security  
+- 💻 I code in: C++, Python, JavaScript, HTML/CSS
+- 📫 Reach me via email at <a href="mailto:uarmy285@gmail.com">uarmy285@gmail.com</a>  
+- 🌐 Explore more on my [portfolio](https://usmanprime.github.io/My-Portfolio/)
+
+---
+
+<h4>👾 I Do Hacking Here</h4>
+
+<table>
+  <tr>
+    <td align="center" style="padding: 0; width: 50%;">
+      <a href="https://tryhackme.com/dashboard" target="_blank">
+        <img src="https://tryhackme-badges.s3.amazonaws.com/usmanibrahim.png" alt="TryHackMe">
+      </a>
+    </td>
+    <td align="center" style="padding: 0; width: 50%;">
+      <a href="https://account.hackthebox.com/dashboard" target="_blank">
+        <img src="https://www.hackthebox.com/badge/image/1234567" alt="HackTheBox" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+<h4>🛠️ Tools & Languages</h4>
+<p align="left">
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40" />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" />
+  </a>
+  <a href="https://www.kali.org/" target="_blank">
+    <img src="https://www.kali.org/images/kali-logo.svg" alt="kali" width="40" height="40" />
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
+  </a>
+</p>
+
+<br>
+
+---
+
+<h4>📊 GitHub Stats</h4>
+
+<table>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img src="https://github-readme-stats.vercel.app/api/?username=usmanibrahim&title_color=4F8CC9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true&rank_icon=github" />
+    </td>
+    <td align="center" style="padding=0;width=50%;">
+      <img src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=usmanibrahim&title_color=4F8CC9&text_color=9f9f9f&layout=compact&show_icons=true&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true" />
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+
+![Visitor Count](https://profile-counter.glitch.me/{usmanibrahim}/count.svg)
+
+</div>
