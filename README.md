@@ -76,19 +76,18 @@
 
 ---
 
-<h4>📊 GitHub Stats</h4>
+<h4 align="center">📊 GitHub Stats</h4>
 
-<table>
-  <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <img src="https://github-readme-stats.vercel.app/api/?username=usmanibrahim&title_color=4F8CC9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true&rank_icon=github" />
-    </td>
-    <td align="center" style="padding=0;width=50%;">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsmanPrime&title_color=4F8CC9&text_color=9f9f9f&layout=compact&show_icons=true&bg_color=00000000&hide_border=true&count_private=true" />
+<div align="center">
+  <a href="https://github.com/UsmanPrime">
+    <img src="https://github-readme-stats.vercel.app/api?username=UsmanPrime&show_icons=true&hide_border=true&title_color=4F8CC9&text_color=9f9f9f&icon_color=4F8CC9&bg_color=00000000&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
+  </a>
+  <br><br>
+  <a href="https://github.com/UsmanPrime">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsmanPrime&layout=compact&show_icons=true&hide_border=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&count_private=true&cache_seconds=86400" alt="Top Languages" />
+  </a>
+</div>
 
-  
-  </tr>
-</table>
 
 ---
 
