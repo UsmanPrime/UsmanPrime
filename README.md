@@ -71,7 +71,16 @@
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50" />
   </a>
+  &nbsp;&nbsp;
+  <a href="https://www.wireshark.org/" target="_blank">
+    <img src=https://img.icons8.com/?size=100&id=rOHcpTUtCTjr&format=png&color=000000" alt="wireshark" width="50" height="50" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="50" height="50" />
+  </a>
 </div>
+
 
 
 ---
