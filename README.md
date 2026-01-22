@@ -2,106 +2,77 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=435&lines=Welcome+To+My+Github;Have+A+Look+At+My+Projects;Feel+free+to+reach+out+to+me" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=520&lines=Cybersecurity+Student+%7C+Blue+%26+Blue+Team;MERN+Stack+Developer;CTFs+%7C+DFIR+%7C+Network+Security" alt="Typing SVG">
   </a>
 </div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/usman-ibrahim-992253276/" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="40"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://usmanprime.github.io/My-Portfolio/" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=naDnVpQ3BNkR&format=png&color=000000" alt="My Portfolio" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=naDnVpQ3BNkR&format=png&color=000000" width="40"/>
   </a>
-&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.instagram.com/usmannnx._.x/" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=32323&format=png&color=000000" alt="Instagram" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=32323&format=png&color=000000" width="40"/>
   </a>
 </div>
 
+---
+
+### 👨‍💻 About Me
+
+- 🎓 **BS Cybersecurity student** at **FAST NUCES Islamabad** (Class of 2028)  
+- 🛡️ Passionate about **Defensive Security (Blue Team)**, **DFIR**, and **SOC workflows**
+- 💻 **MERN Stack Developer** building secure web applications (MongoDB, Express, React, Node.js)
+- 🔍 Experience with **Network Analysis** (Wireshark/Nmap) and **Threat Detection**
+- 🚀 Team Lead & Backend Developer for **NextGen Residency**
+
+### 🏆 Achievements
+- **7th Position** @ Cyber Fest CTF (Team RDX)
+- **Star of CyberFest'25** Awardee
+- **Head of Finance** @ Cyber Security Link (CSL)
+
+📫 **Email:** <a href="mailto:uarmy285@gmail.com">uarmy285@gmail.com</a>  
+🌐 **Portfolio:**  https://usmanprime-portfolio.vercel.app/
 
 ---
 
-- 🎓 BS Cybersecurity Student at [FAST NUCES Islamabad](https://nu.edu.pk/), expected to graduate in 2028  
-- 🔭 Currently working on C++ projects, Web Applications, and Security Tools  
-- 📚 Learning ReactJS, Python, and refining Digital Forensics skills  
-- 🧠 Ask Me About: Web Development, Capture The Flag (CTF), Digital Forensics, and Linux Security  
-- 💻 I code in: C++, Python, JavaScript, HTML/CSS
-- 📫 Reach me via email at <a href="mailto:uarmy285@gmail.com">uarmy285@gmail.com</a>  
-- 🌐 Explore more on my [portfolio](https://usmanprime.github.io/My-Portfolio/)
-
----
-
-
-
-
-
-<h4 align="center">🛠️ Tools & Languages</h4>
+<h4 align="center">🛠️ Tools & Technologies</h4>
 
 <div align="center">
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="50" height="50" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.kali.org/" target="_blank">
-    <img src="https://www.kali.org/images/kali-logo.svg" alt="kali" width="50" height="50" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.wireshark.org/" target="_blank">
-    <img src=https://img.icons8.com/?size=100&id=rOHcpTUtCTjr&format=png&color=000000" alt="wireshark" width="50" height="50" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="50" height="50" />
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50"/>
+  <img src="https://www.kali.org/images/kali-logo.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50"/>
+  <img src="https://img.icons8.com/?size=100&id=rOHcpTUtCTjr&format=png&color=000000" width="50"/> <br> 
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/>
+  
+  <br>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50"/>
 </div>
-
-
 
 ---
 
 <h4 align="center">📊 GitHub Stats</h4>
 
 <div align="center">
-  <a href="https://github.com/UsmanPrime">
-    <img src="https://github-readme-stats.vercel.app/api?username=UsmanPrime&show_icons=true&hide_border=true&title_color=4F8CC9&text_color=9f9f9f&icon_color=4F8CC9&bg_color=00000000&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=UsmanPrime&show_icons=true&hide_border=true&bg_color=00000000&count_private=true"/>
   <br><br>
-  <a href="https://github.com/UsmanPrime">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsmanPrime&layout=compact&show_icons=true&hide_border=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&count_private=true&cache_seconds=86400" alt="Top Languages" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsmanPrime&layout=compact&hide_border=true&bg_color=00000000"/>
 </div>
-
 
 ---
 
 <div align="center">
-
-![Visitor Count](https://profile-counter.glitch.me/{usmanibrahim}/count.svg)
-
+  <img src="https://profile-counter.glitch.me/usmanibrahim/count.svg"/>
 </div>
