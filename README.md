@@ -11,7 +11,7 @@
     <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="40"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://usmanprime.github.io/My-Portfolio/" target="_blank">
+  <a href="https://usmanprime-portfolio.vercel.app/ " target="_blank">
     <img src="https://img.icons8.com/?size=100&id=naDnVpQ3BNkR&format=png&color=000000" width="40"/>
   </a>
   &nbsp;&nbsp;
