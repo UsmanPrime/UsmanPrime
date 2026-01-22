@@ -11,7 +11,7 @@
     <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="40"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://usmanprime-portfolio.vercel.app/ " target="_blank">
+  <a href="https://usmanprime-portfolio.vercel.app/" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=naDnVpQ3BNkR&format=png&color=000000" width="40"/>
   </a>
   &nbsp;&nbsp;
@@ -36,29 +36,25 @@
 - **Head of Finance** @ Cyber Security Link (CSL)
 
 📫 **Email:** <a href="mailto:uarmy285@gmail.com">uarmy285@gmail.com</a>  
-🌐 **Portfolio:**  https://usmanprime-portfolio.vercel.app/
+🌐 **Portfolio:** https://usmanprime-portfolio.vercel.app/
 
 ---
 
 <h4 align="center">🛠️ Tools & Technologies</h4>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50"/>
-  <img src="https://www.kali.org/images/kali-logo.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50"/>
-  <img src="https://img.icons8.com/?size=100&id=rOHcpTUtCTjr&format=png&color=000000" width="50"/> <br> 
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/>
-  
-  <br>
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://www.kali.org/images/kali-logo.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://img.icons8.com/?size=100&id=rOHcpTUtCTjr&format=png&color=000000" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
 </div>
 
 ---
@@ -74,5 +70,7 @@
 ---
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/usmanibrahim/count.svg"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500"><br>
+  <img src="https://komarev.com/ghpvc/?username=UsmanPrime&style=flat-square&color=bd00ff&label=NETRUNNER+VIEWS" alt="Profile views"/><br>
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 </div>
