@@ -247,22 +247,47 @@
 
 ---
 
-<h4 align="center">📊 GitHub Stats</h4>
+<h4 align="center">🏆 GitHub Trophies</h4>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UsmanPrime&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=34d399&text_color=c9d1d9&count_private=true" height="170"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=UsmanPrime&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" width="95%"/>
+</div>
+
+---
+
+<h4 align="center">📊 GitHub Stats — Real-Time</h4>
+
+<!-- Profile Summary Cards - Auto-generated from GitHub API -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UsmanPrime&theme=github_dark" width="95%"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=UsmanPrime&theme=github_dark" height="170"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsmanPrime&layout=compact&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UsmanPrime&theme=github_dark&utcOffset=5" height="170"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UsmanPrime&hide_border=true&background=0d1117&stroke=00b4d8&ring=00b4d8&fire=34d399&currStreakLabel=00b4d8&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UsmanPrime&theme=github_dark" height="170"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=UsmanPrime&theme=github_dark" height="170"/>
 </div>
 
 <br>
 
+<!-- Streak Stats - Dynamic -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=UsmanPrime&hide_border=true&background=0d1117&stroke=00b4d8&ring=00b4d8&fire=34d399&currStreakLabel=00b4d8&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" />
+</div>
+
+<br>
+
+<!-- Activity Graph - Dynamic -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=UsmanPrime&bg_color=0d1117&color=00b4d8&line=34d399&point=00b4d8&area=true&area_color=34d399&hide_border=true" width="95%"/>
 </div>
