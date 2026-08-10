@@ -70,12 +70,13 @@
   </tr>
 </table>
 
+- 🔵 **Security Research Intern** @ **NetraLink Solutions** — Building DeWall, a self-hosted enterprise DNS Firewall and Management Platform: Golang microservices for real-time DNS query evaluation, threat intel pipeline integration, and a React/TypeScript frontend
 - 🔵 **SOC Analyst** — Triaged **30+ daily alerts** in Wazuh & Splunk, correlating events against **MITRE ATT&CK TTPs**, reducing false positives by **20%**
 - 🔬 **DFIR Specialist** — Analyzed **500+ endpoint telemetry records/week**, documented findings in structured incident reports, improving documentation quality by **30%**
 - 🧪 **Lab Builder** — Constructed SOC labs simulating **5+ attack scenarios** (lateral movement, privilege escalation, credential dumping), cutting **MTTD by 30%**
-- 💼 **Business Development Intern** @ **Intellema** — Collaborating with 8+ professionals on AI solution discovery across RAG, LLMs, Deep Learning, Generative AI, Voice AI, Agentic AI, ML Ops, and DevOps
 - 🧩 **CTF Author** — Designed memory forensics challenges for **NASCON 2026** (MITRE T1003.001, completed by fewer than 10% of competitors) & deployed **6 challenges** for **RDX National CTF** (100+ participants)
 - 💻 **MERN Stack Developer** — Building secure web applications with React, Node.js, MongoDB, Express
+- 💼 Alongside my security work, I'm also a **Business Development Intern** @ **Intellema** — collaborating with 8+ professionals on AI solution discovery across RAG, LLMs, Deep Learning, Generative AI, Voice AI, Agentic AI, ML Ops, and DevOps
 
 ---
 
@@ -89,10 +90,10 @@
     <th>Period</th>
   </tr>
   <tr>
-    <td>💼</td>
-    <td><strong>Business Development Intern</strong></td>
-    <td>Intellema</td>
-    <td>May 2026 – Present</td>
+    <td>🔵</td>
+    <td><strong>Security Research Intern</strong></td>
+    <td>NetraLink Solutions</td>
+    <td>Jul 2026 – Present</td>
   </tr>
   <tr>
     <td>🔵</td>
@@ -104,7 +105,7 @@
     <td>✍️</td>
     <td><strong>Challenge Author — Forensics Arena</strong></td>
     <td>NASCON 2026, FAST NUCES Islamabad</td>
-    <td>Feb – Apr 2026</td>
+    <td>Feb – Aug 2026</td>
   </tr>
   <tr>
     <td>✍️</td>
@@ -117,6 +118,12 @@
     <td><strong>Technical Team Member & Head of Finance</strong></td>
     <td>Cyber Space Legion (CSL), FAST NUCES</td>
     <td>Sep 2024 – Present</td>
+  </tr>
+  <tr>
+    <td>💼</td>
+    <td><strong>Business Development Intern</strong> <em>(Additional)</em></td>
+    <td>Intellema</td>
+    <td>May 2026 – Present</td>
   </tr>
 </table>
 
@@ -148,8 +155,9 @@
 | Network Security | Cisco | ✅ Completed |
 | ISO/IEC 27001:2022 Information Security Associate | SkillFront | ✅ Completed |
 | Computer Networks and Network Security | IBM | ✅ Completed |
-| Advanced Digital Forensics Techniques | Training Course | ✅ Completed |
+| Advanced Digital Forensics Techniques | Belkasoft | ✅ Completed |
 | Windows Forensics with Belkasoft | Belkasoft (6 CPE Credits) | ✅ Completed |
+| Advanced SQLite Queries | Belkasoft | ✅ Completed |
 
 </div>
 
@@ -200,6 +208,7 @@
 **💻 Programming Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -237,6 +246,7 @@
 
 | Project | Tech Stack | Highlights |
 |:---|:---|:---|
+| [🛡️ DeWall — DNS Firewall Platform](https://usmanprime-portfolio.vercel.app/) | Golang, React, TypeScript | Real-time DNS query evaluation microservices, threat intel pipeline integration, hardened enterprise dashboard |
 | [🏠 Smart Housing Society Portal](https://github.com/UsmanPrime/Smart-Housing-Society-Website) | React, Node.js, MongoDB, Express | JWT auth for 3 user roles, 200+ resident records, 40% faster resolution |
 | [🏢 OSIM - Organizational Simulation](https://github.com/UsmanPrime/OSIM---Organizational-Simulation) | C++, OOP, File Handling | 12+ class hierarchies, SOLID principles, 1,000+ records, zero data loss |
 | [🛒 SecureShop](https://github.com/UsmanPrime/SecureShop) | C++, File I/O, Authentication | Multi-factor auth, injection prevention, O(log n) search, 50+ records |
